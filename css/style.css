@@ -187,14 +187,14 @@ a {
 
 /* First moving layer using img1 */
 .track-a {
-  background-image: url("../images/compound.jpg");
+  background-image: url("../compound.jpg");
   opacity: 0.45;
   animation: moveBg 55s linear infinite;
 }
 
 /* Second layer for depth */
 .track-b {
-  background-image: url("../images/dungu.jpg");
+  background-image: url("../dungu.jpg");
   opacity: 0.22;
   animation: moveBg 75s linear infinite reverse;
   mix-blend-mode: multiply;
@@ -1396,7 +1396,7 @@ a {
   min-height: 48vh;
   display: grid;
   align-items: center;
-  background: url("../images/bus.jpg") center/cover no-repeat;
+  background: url("../bus.jpg") center/cover no-repeat;
 }
 
 .about-hero-overlay {

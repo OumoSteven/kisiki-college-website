@@ -7,7 +7,7 @@
 /* Academics page heading section */
 .academics-hero {
   position: relative;
-  background: url("../images/compound.jpg") center/cover no-repeat;
+  background: url("../bus.jpg") center/cover no-repeat;
   min-height: 360px;
   display: grid;
   align-items: center;
